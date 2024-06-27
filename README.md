@@ -1,2 +1,2 @@
 # python_assignement
-pythin task
+python task
